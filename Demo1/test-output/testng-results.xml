@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2021-10-11T04:56:52Z" finished-at="2021-10-11T04:56:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2021-10-11T04:56:52Z" finished-at="2021-10-11T04:56:52Z">
+      <class name="TestNg.Dataprovider">
+        <test-method status="PASS" signature="PrasadTest(java.lang.String)[pri:0, instance:TestNg.Dataprovider@5419f379]" name="PrasadTest" duration-ms="14" started-at="2021-10-11T04:56:52Z" data-provider="data-provider" finished-at="2021-10-11T04:56:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[First-Value]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrasadTest -->
+        <test-method status="PASS" signature="PrasadTest(java.lang.String)[pri:0, instance:TestNg.Dataprovider@5419f379]" name="PrasadTest" duration-ms="3" started-at="2021-10-11T04:56:52Z" data-provider="data-provider" finished-at="2021-10-11T04:56:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Second-Value]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrasadTest -->
+      </class> <!-- TestNg.Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
